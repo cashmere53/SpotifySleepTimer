@@ -1,0 +1,6 @@
+spotipy
+rich
+black
+flake8
+mypy
+isort

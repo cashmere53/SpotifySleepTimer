@@ -1,0 +1,9 @@
+# python caches
+.mypy_cache/
+
+# vscode settings
+.vscode/
+
+# spotify access tokens
+.cache*
+config.json
